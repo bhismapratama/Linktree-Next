@@ -11,7 +11,7 @@ export default function Home() {
       </div>
 
       <div className="name">
-        <h1 className="capitalize text-white p-4">Bhisma <span className="text-red-700">Pratama</span></h1>
+        <h1 className="capitalize text-white p-4">your <span className="text-red-700">name</span></h1>
       </div>
 
       <div className="main w-1/2">
@@ -34,7 +34,7 @@ export default function Home() {
 
       <div className="footer pb-8">
         <h1 className="text-xs text-white cursor-pointer">
-          created with <i className="bx bxs-heart hover:cursor-pointer"></i> by <span className="transform-none hover:cursor-pointer">@bysman00</span> :)
+          created with <i className="bx bxs-heart hover:cursor-pointer"></i> by <span className="transform-none hover:cursor-pointer">@yourname</span> :)
         </h1>
       </div>
     </section>
